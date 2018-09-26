@@ -28,7 +28,7 @@ public class TelaAutenticar extends javax.swing.JFrame {
     @SuppressWarnings("unchecked")
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
-
+        System.out.println("Hello world");
         painelTitulo = new javax.swing.JPanel();
         lblTitulo = new javax.swing.JLabel();
         painelTitulo1 = new javax.swing.JPanel();
